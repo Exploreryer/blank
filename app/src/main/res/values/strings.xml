@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Blank</string>
+    <string name="settings">设置</string>
+    <string name="about">关于</string>
+    <string name="tab_current">当前</string>
+    <string name="tab_archived">归档</string>
+    <string name="sync_on">同步已开启</string>
+    <string name="sync_off">同步已关闭</string>
+    <string name="google_signed_in">Google 已登录</string>
+    <string name="google_signed_out">Google 未登录</string>
+</resources>

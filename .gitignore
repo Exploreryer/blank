@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Android/Gradle build outputs
+build/
+**/build/
+.gradle/
+.kotlin/
+
+# Local SDK config
+local.properties
+
+# IDE files
+.idea/
+*.iml
+
+# APK/AAB artifacts
+*.apk
+*.aab
+
+# Logs
+*.log
