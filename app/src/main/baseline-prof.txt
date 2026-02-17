@@ -1,4 +1,4 @@
-HSPLcom/example/quickdraft/MainActivity;->onCreate(Landroid/os/Bundle;)V
-HSPLcom/example/quickdraft/ui/MainViewModel;-><init>(Landroid/app/Application;)V
-HSPLcom/example/quickdraft/data/local/AppDatabase;->getInstance(Landroid/content/Context;)Lcom/example/quickdraft/data/local/AppDatabase;
-HSPLcom/example/quickdraft/ui/editor/EditorScreenKt;->EditorScreen(Ljava/lang/String;Lkotlin/jvm/functions/Function1;Landroidx/compose/ui/Modifier;Landroidx/compose/runtime/Composer;II)V
+HSPLcom/example/blank/MainActivity;->onCreate(Landroid/os/Bundle;)V
+HSPLcom/example/blank/ui/MainViewModel;-><init>(Landroid/app/Application;)V
+HSPLcom/example/blank/data/local/AppDatabase;->getInstance(Landroid/content/Context;)Lcom/example/blank/data/local/AppDatabase;
+HSPLcom/example/blank/ui/editor/EditorScreenKt;->EditorScreen(Ljava/lang/String;Lkotlin/jvm/functions/Function1;Landroidx/compose/ui/Modifier;Landroidx/compose/runtime/Composer;II)V

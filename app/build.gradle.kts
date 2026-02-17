@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.quickdraft"
+    namespace = "com.example.blank"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.quickdraft"
+        applicationId = "com.example.blank"
         minSdk = 28
         targetSdk = 35
         versionCode = 1
@@ -63,6 +63,7 @@ dependencies {
     implementation("androidx.appcompat:appcompat:1.7.0")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.8.7")
     implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7")
+    implementation("androidx.lifecycle:lifecycle-runtime-compose:2.8.7")
     implementation("androidx.activity:activity-compose:1.10.1")
     implementation("com.google.android.material:material:1.12.0")
     implementation("androidx.compose.ui:ui")

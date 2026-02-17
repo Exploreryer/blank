@@ -1,2 +1,2 @@
 -keep class kotlinx.serialization.** { *; }
--keep class com.example.quickdraft.data.remote.drive.** { *; }
+-keep class com.example.blank.data.remote.drive.** { *; }
